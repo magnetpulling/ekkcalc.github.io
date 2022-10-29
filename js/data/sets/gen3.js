@@ -1325,7 +1325,7 @@ var SETDEX_ADV = {"Absol":{"Magma Grunt #2 (Route 112)": {"ability":"Pressure","
 
  ,"Shellder":{"Aqua Grunt #1 (Slateport City)": {"ability":"Shell Armor","level":25 ,"item":"Scope Lens","moves":[ "Icy Wind", "Self-Destruct", "Water Pulse", "Mud Shot" ],"nature":"Sassy "}}
 
- ,"Shiftry":{"Kindler Bernie": {"Magma Grunt #2 (Mt. Chimney)": {"ability":"Chlorophyll","level":40 ,"item":"Focus Band","moves":[ "Explosion", "Brick Break", "Giga Drain", "Shadow Ball" ],"nature":"Impish"}}
+ ,"Shiftry":{"Magma Grunt #2 (Mt. Chimney)": {"ability":"Chlorophyll","level":40 ,"item":"Focus Band","moves":[ "Explosion", "Brick Break", "Giga Drain", "Shadow Ball" ],"nature":"Impish"}
  ,"Ranger Flint": {"ability":"Chlorophyll","level":52 ,"item":"Leftovers","moves":[ "Fake Out", "Brick Break", "Shadow Ball", "Giga Drain" ],"nature":"Timid"}
  ,"Magma Grunt #2 (Magma Hideout)": {"ability":"Chlorophyll","level":63 ,"item":"Scope Lens","moves":[ "Explosion", "Solar Beam", "Brick Break", "Shadow Ball" ],"nature":"Lonely"}
  ,"Magma Grunt #7 (Magma Hideout)": {"ability":"Chlorophyll","level":65 ,"item":"Focus Band","moves":[ "Swords Dance", "Explosion", "Brick Break", "Shadow Ball" ],"nature":"Mild"}
