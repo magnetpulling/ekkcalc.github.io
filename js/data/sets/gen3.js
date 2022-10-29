@@ -1325,12 +1325,12 @@ var SETDEX_ADV = {"Absol":{"Magma Grunt #2 (Route 112)": {"ability":"Pressure","
 
  ,"Shellder":{"Aqua Grunt #1 (Slateport City)": {"ability":"Shell Armor","level":25 ,"item":"Scope Lens","moves":[ "Icy Wind", "Self-Destruct", "Water Pulse", "Mud Shot" ],"nature":"Sassy "}}
 
- ,"Shiftry":{"Kindler Bernie": {"Magma Grunt #2 (Mt. Chimney)": {"ability":"Chlorophyll","level":40 ,"item":"Focus Band","moves":[ "Explosion", "Brick Break", "Giga Drain", "Shadow Ball" ],"nature":"Impish"}
+ ,"Shiftry":{"Kindler Bernie": {"Magma Grunt #2 (Mt. Chimney)": {"ability":"Chlorophyll","level":40 ,"item":"Focus Band","moves":[ "Explosion", "Brick Break", "Giga Drain", "Shadow Ball" ],"nature":"Impish"}}
  ,"Ranger Flint": {"ability":"Chlorophyll","level":52 ,"item":"Leftovers","moves":[ "Fake Out", "Brick Break", "Shadow Ball", "Giga Drain" ],"nature":"Timid"}
  ,"Magma Grunt #2 (Magma Hideout)": {"ability":"Chlorophyll","level":63 ,"item":"Scope Lens","moves":[ "Explosion", "Solar Beam", "Brick Break", "Shadow Ball" ],"nature":"Lonely"}
  ,"Magma Grunt #7 (Magma Hideout)": {"ability":"Chlorophyll","level":65 ,"item":"Focus Band","moves":[ "Swords Dance", "Explosion", "Brick Break", "Shadow Ball" ],"nature":"Mild"}
  ,"Magma Grunt #10 (Magma Hideout)": {"ability":"Chlorophyll","level":66 ,"item":"Choice Band","moves":[ "Explosion" ],"nature":"Hasty"}
- ,"Champion JakkyShane": {"ability":"Chlorophyll","level":100,"item":"Focus Band","moves":["Solar Beam","Crunch","Explosion","Hidden Power Rock"],"nature":"Modest"}}}
+ ,"Champion JakkyShane": {"ability":"Chlorophyll","level":100,"item":"Focus Band","moves":["Solar Beam","Crunch","Explosion","Hidden Power Rock"],"nature":"Modest"}}
 
  ,"Shroomish":{"Battle Girl Lilith": {"ability":"Effect Spore","level":16 ,"item":"Sitrus Berry","moves":[ "Spore", "Giga Drain", "Facade", "Substitute" ],"nature":"Timid"}}
 
