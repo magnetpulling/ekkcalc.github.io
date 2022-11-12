@@ -562,7 +562,7 @@ var SETDEX_ADV = {"Absol":{"Magma Grunt #2 (Route 112)": {"ability":"Pressure","
  ,"Fisherman Wayne": {"ability":"Swift Swim","level":70 ,"item":"Sea Incense","moves":[ "Waterfall", "Ice Beam", "Psychic", "Hidden Power Electric"]}}
 
  ,"Granbull":{"Magma Grunt #7 (Route 114)": {"ability":"Intimidate","level":35 ,"item":"Bright Powder","moves":[ "Attract", "Earthquake", "Body Slam", "Shadow Ball"]}
- ,"Magma Grunt #2 (Mt. Chimney)": {"ability":"Intimidate","level":35 ,"item":"Scope Lens","moves":[ "Thunder Wave", "Double-Edge", "Earthquake", "Shadow Ball"]}
+ ,"Magma Grunt #2 (Mt. Chimney)": {"ability":"Intimidate","level":40 ,"item":"Scope Lens","moves":[ "Thunder Wave", "Double-Edge", "Earthquake", "Shadow Ball"]}
  ,"Triathlete Randall": {"ability":"Intimidate","level":41 ,"item":"Quick Claw","moves":[ "Thunder Wave", "Facade", "Shadow Ball", "Earthquake" ],"nature":"Lax"}
  ,"Parasol Lady Missy": {"ability":"Intimidate","level":44 ,"item":"Soft Sand","moves":[ "Earthquake", "Attract", "Body Slam", "Shadow Ball" ],"nature":"Timid"}
  ,"Magma Grunt #4 (Magma Hideout)": {"ability":"Intimidate","level":57 ,"item":"Focus Band","moves":[ "Counter", "Earthquake", "Shadow Ball", "Body Slam" ],"nature":"Gentle"}
