@@ -392,7 +392,7 @@ var RBY = {
     },
     Lapras: {
         types: ['Water', 'Ice'],
-        bs: { hp: 130, at: 85, df: 100, sp: 60, sl: 95 },
+        bs: { hp: 130, at: 85, df: 80, sp: 60, sl: 115 },
         weightkg: 220
     },
     Lickitung: {
@@ -885,7 +885,7 @@ var GSC_PATCH = {
     Kingler: { bs: { sa: 50, sd: 50 } },
     Koffing: { bs: { sa: 60, sd: 45 } },
     Krabby: { bs: { sa: 25, sd: 25 } },
-    Lapras: { bs: { sa: 95, sd: 105 } },
+    Lapras: { bs: { sa: 115, sd: 105 } },
     Lickitung: { bs: { sa: 60, sd: 75 } },
     Machamp: { bs: { sa: 65, sd: 85 } },
     Machoke: { bs: { sa: 50, sd: 60 } },
