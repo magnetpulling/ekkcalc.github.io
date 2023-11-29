@@ -194,7 +194,7 @@ var SETDEX_ADV = {"Absol":{"Magma Grunt #2 (Route 112)": {"ability":"Pressure","
  ,"Fisherman Wayne": {"ability":"Forecast","level":70 ,"item":"Leppa Berry","moves":[ "Hydro Pump", "Fire Blast", "Ice Beam", "Thunderbolt" ],"nature":"Quiet"}
  ,"Champion Aubs": {"ability":"Forecast","level":100,"item":"Lum Berry","moves":["Ice Beam","Weather Ball","Shadow Ball","Icy Wind"],"nature":"Careful"}}
  
- ,"Chansey":{"Magma Grunt #6 (Route 114)": {"ability":"Natural Cure","level":34 ,"item":"Leftovers","moves":[ "Soft-Boiled", "Counter", "Toxic", "Seismic Toss" ],"nature":"Calm"}}
+ ,"Chansey":{"Magma Grunt #6 (Route 114)": {"ability":"Natural Cure","level":39 ,"item":"Leftovers","moves":[ "Soft-Boiled", "Counter", "Toxic", "Seismic Toss" ],"nature":"Calm"}}
  
  ,"Charizard":{"Trainer Red": {"ability":"Blaze","level":37 ,"item":"Lum Berry","moves":[ "Flamethrower", "Aerial Ace", "Dragon Claw", "Earthquake"]}
  ,"Leader Flannery": {"ability":"Blaze","level":42 ,"item":"Lum Berry","moves":[ "Heat Wave", "Earthquake", "Solar Beam", "Dragon Claw" ],"nature":"Lonely"}
@@ -561,14 +561,14 @@ var SETDEX_ADV = {"Absol":{"Magma Grunt #2 (Route 112)": {"ability":"Pressure","
  ,"Cooltrainer Olivia": {"ability":"Swift Swim","level":75 ,"item":"Lum Berry","moves":[ "Surf", "Hydro Pump", "Ice Beam", "Psychic"]}
  ,"Fisherman Wayne": {"ability":"Swift Swim","level":70 ,"item":"Sea Incense","moves":[ "Waterfall", "Ice Beam", "Psychic", "Hidden Power Electric"]}}
 
- ,"Granbull":{"Magma Grunt #7 (Route 114)": {"ability":"Intimidate","level":35 ,"item":"Bright Powder","moves":[ "Attract", "Earthquake", "Body Slam", "Shadow Ball"]}
+ ,"Granbull":{"Magma Grunt #7 (Route 114)": {"ability":"Intimidate","level":40 ,"item":"Bright Powder","moves":[ "Attract", "Earthquake", "Body Slam", "Shadow Ball"]}
  ,"Magma Grunt #2 (Mt. Chimney)": {"ability":"Intimidate","level":40 ,"item":"Scope Lens","moves":[ "Thunder Wave", "Double-Edge", "Earthquake", "Shadow Ball"]}
- ,"Triathlete Randall": {"ability":"Intimidate","level":41 ,"item":"Quick Claw","moves":[ "Thunder Wave", "Facade", "Shadow Ball", "Earthquake" ],"nature":"Lax"}
- ,"Parasol Lady Missy": {"ability":"Intimidate","level":44 ,"item":"Soft Sand","moves":[ "Earthquake", "Attract", "Body Slam", "Shadow Ball" ],"nature":"Timid"}
- ,"Magma Grunt #4 (Magma Hideout)": {"ability":"Intimidate","level":57 ,"item":"Focus Band","moves":[ "Counter", "Earthquake", "Shadow Ball", "Body Slam" ],"nature":"Gentle"}
- ,"Magma Grunt #11 (Magma Hideout)": {"ability":"Intimidate","level":61 ,"item":"Quick Claw","moves":[ "Earthquake", "Shadow Ball", "Frustration", "Super Fang" ]}
- ,"Magma Grunt #13 (Magma Hideout)": {"ability":"Intimidate","level":62 ,"item":"Leftovers","moves":[ "Attract", "Body Slam", "Earthquake", "Shadow Ball" ],"nature":"Hasty"}
- ,"Cooltrainer Hannah": {"ability":"Intimidate","level":66 ,"item":"Lum Berry","moves":[ "Return", "Superpower", "Shadow Ball", "Bulk Up" ],"nature":"Quiet"}
+ ,"Triathlete Randall": {"ability":"Intimidate","level":46 ,"item":"Quick Claw","moves":[ "Thunder Wave", "Facade", "Shadow Ball", "Earthquake" ],"nature":"Lax"}
+ ,"Parasol Lady Missy": {"ability":"Intimidate","level":51 ,"item":"Soft Sand","moves":[ "Earthquake", "Attract", "Body Slam", "Shadow Ball" ],"nature":"Timid"}
+ ,"Magma Grunt #4 (Magma Hideout)": {"ability":"Intimidate","level":64 ,"item":"Focus Band","moves":[ "Counter", "Earthquake", "Shadow Ball", "Body Slam" ],"nature":"Gentle"}
+ ,"Magma Grunt #11 (Magma Hideout)": {"ability":"Intimidate","level":66 ,"item":"Quick Claw","moves":[ "Earthquake", "Shadow Ball", "Frustration", "Super Fang" ]}
+ ,"Magma Grunt #13 (Magma Hideout)": {"ability":"Intimidate","level":67 ,"item":"Leftovers","moves":[ "Attract", "Body Slam", "Earthquake", "Shadow Ball" ],"nature":"Hasty"}
+ ,"Cooltrainer Hannah": {"ability":"Intimidate","level":69 ,"item":"Lum Berry","moves":[ "Return", "Superpower", "Shadow Ball", "Bulk Up" ],"nature":"Quiet"}
  ,"Battle Girl Reyna": {"ability":"Intimidate","level":67,"moves":[ "Body Slam", "Superpower", "Shadow Ball", "Double-Edge" ],"nature":"Adamant"}
  ,"Champion Toxic": {"ability":"Intimidate","level":100,"item":"Focus Band","moves":["Bulk Up","Crush Claw","Superpower","Shadow Ball"],"nature":"Hasty"}}
 
@@ -1335,7 +1335,7 @@ var SETDEX_ADV = {"Absol":{"Magma Grunt #2 (Route 112)": {"ability":"Pressure","
  ,"Shroomish":{"Battle Girl Lilith": {"ability":"Effect Spore","level":16 ,"item":"Sitrus Berry","moves":[ "Spore", "Giga Drain", "Facade", "Substitute" ],"nature":"Timid"}}
 
  ,"Shuckle":{"Leader Roxanne": {"ability":"Shell Armor","level":15 ,"item":"Sitrus Berry","moves":[ "Toxic", "Curse", "Rollout", "Sunny Day" ],"nature":"Adamant"}
- ,"Pokéfan Alexia": {"ability":"Shell Armor","level":4 ,"item":"Leftovers","moves":[ "Toxic", "Protect", "Sandstorm", "Rest" ],"nature":"Rash"}
+ ,"Pokéfan Alexia": {"ability":"Shell Armor","level":46,"item":"Leftovers","moves":[ "Toxic", "Protect", "Sandstorm", "Rest" ],"nature":"Rash"}
  ,"Cooltrainer Athena": {"ability":"Shell Armor","level":70 ,"item":"Leftovers","moves":[ "Protect", "Toxic", "Attract", "Rest" ],"nature":"Gentle"}}
 
  ,"Shuppet":{"Lady Vivian": {"ability":"Insomnia","level":27 ,"item":"Sitrus Berry","moves":[ "Thunder Wave", "Shadow Ball", "Night Shade", "Double-Edge" ],"nature":"Jolly"}}
@@ -1533,7 +1533,7 @@ var SETDEX_ADV = {"Absol":{"Magma Grunt #2 (Route 112)": {"ability":"Pressure","
  ,"Magma Grunt #3 (Mossdeep Space Center)": {"ability":"Intimidate","level":73 ,"item":"Lum Berry","moves":[ "Counter", "Crunch", "Ice Beam", "Thunderbolt"]}
  ,"Champion 5ymes":{"ability":"Intimidate","level":100,"item":"Bright Powder","moves":["Ancientpower","Superpower","Fire Blast","Solar Beam"],"nature":"Impish"}
  ,"Champion Toxic": {"ability":"Intimidate","level":100,"item":"Bright Powder","moves":["Bulk Up","Ancientpower","Superpower","Earth Power"],"nature":"Quiet"}
- ,"Elite Four Drake": {"ability":"Intimidate","level":100 ,"item":"Lum Berry","moves":[ "Dragon Dance", "Ancientpower", "Earthquake", "Hidden Power Bug" ],"nature":"Mild"}}
+ ,"Elite Four Drake": {"ability":"Intimidate","level":100 ,"item":"Lum Berry","moves":[ "Dragon Dance", "Ancientpower", "Earthquake", "Crunch" ],"nature":"Mild"}}
 
  ,"Tyrogue":{"Black Belt Takao": {"ability":"Guts","level":16 ,"item":"Salac Berry","moves":[ "Mach Punch", "Hi Jump Kick", "Facade", "Rock Slide" ],"nature":"Relaxed"}}
 
